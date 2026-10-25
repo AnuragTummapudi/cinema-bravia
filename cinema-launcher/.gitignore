@@ -1,0 +1,8 @@
+build/
+dist/
+evidence/
+research/
+.impeccable/review/
+__pycache__/
+tests/__pycache__/
+scripts/__pycache__/

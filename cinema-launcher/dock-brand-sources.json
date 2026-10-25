@@ -1,0 +1,9 @@
+{
+  "scope": "Personal local app-launch shortcuts. Trademark rights remain with their respective owners.",
+  "netflix": {"asset": "res/drawable/brand_netflix.xml", "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/netflix.svg", "treatment": "Existing authentic red N geometry retained; transparent resting state."},
+  "youtube": {"asset": "res/drawable/dock_youtube.xml", "source": "https://brand.youtube/", "geometrySource": "Existing Simple Icons YouTube path", "treatment": "Original play-button silhouette with red field and white triangle, no wordmark or tile."},
+  "prime": {"asset": "res/drawable/dock_prime.xml", "source": "https://commons.wikimedia.org/wiki/File:Amazon_Prime_Video_logo.svg", "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg", "treatment": "Only original Amazon smile/arrow paths, original #00A8E1 blue, native viewport; no wordmark."},
+  "jiohotstar": {"asset": "assets/brands/jiohotstar-official.png", "source": "https://www.jiohotstar.design/logo.png", "context": "https://www.jiohotstar.design/", "treatment": "Original transparent PNG pixels. Native alpha-derived convex clear-space viewport isolates the star. Official silver/gold colors preserved; reference multicolor treatment is not invented."},
+  "zee5": {"asset": "res/drawable/dock_zee5.xml", "source": "https://commons.wikimedia.org/wiki/File:ZEE5_2025.svg", "original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/ZEE5_2025.svg", "corroboration": "https://www.zee.com/products-platforms-digital-media-domestic/", "treatment": "Original Z5 polygon/path/color/gradient-stop geometry converted to native VectorDrawable. No invented rainbow rings."},
+  "allApps": {"asset": "res/drawable/dock_apps.xml", "source": "Project-native utility geometry", "treatment": "Four warm-white squares; not a third-party brand."}
+}
