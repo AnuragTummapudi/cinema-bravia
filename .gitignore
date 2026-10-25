@@ -1,0 +1,62 @@
+# Private workspace history, backups and original upstream checkout
+/cleanyourtv/
+/.publication/
+/photos/
+/.impeccable/
+/.playwright-mcp/
+/DESIGN.md
+/PRODUCT.md
+
+# Credentials and local configuration (never publish)
+**/.state/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.keystore
+*.jks
+local.properties
+device.json
+
+# Dependencies, generated builds and private device evidence
+**/.venv/
+**/__pycache__/
+*.py[cod]
+**/.test-output/
+**/.reference/
+**/.wheelhouse/
+**/build/
+**/dist/
+**/work/
+**/evidence/
+**/.impeccable/
+*.app/
+*.apk
+*.aab
+*.zip
+*.icns
+.DS_Store
+*.log
+
+# Internal session notes; public guides live in docs/ and component READMEs
+/remote/SURFACE.md
+/remote/REDESIGN.md
+/remote/verify_tv.py
+/cinema-launcher/DESIGN.md
+/cinema-launcher/PRODUCT.md
+/cinema-launcher/SURFACE.md
+/cinema-launcher/CHANGELOG.md
+/cinema-launcher/TEST-RESULTS.md
+/cinema-launcher/research/
+
+# Personal movie/character imagery is not covered by the source license.
+# Preserve locally; import your own licensed assets for personal builds.
+/cinema-launcher/app/src/main/assets/art/
+/cinema-launcher/app/src/main/assets/characters/
+/cinema-launcher/app/src/main/assets/home/
+
+# Historical TV automation depends on private session fixtures.
+/cinema-launcher/scripts/*.py
+!/cinema-launcher/scripts/validate_catalog.py
+!/cinema-launcher/scripts/import_artwork.py
