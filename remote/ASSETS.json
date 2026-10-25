@@ -1,0 +1,71 @@
+{
+  "netflix": {
+    "asset": "static/netflix.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/netflix.svg",
+    "treatment": "Original red Netflix N path with transparent clear-space viewBox cropped to the glyph"
+  },
+  "youtube": {
+    "asset": "static/youtube.svg",
+    "source": "https://brand.youtube/",
+    "treatment": "Existing original play-button geometry with original red/white colors"
+  },
+  "prime": {
+    "asset": "static/prime.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+    "treatment": "Original blue Amazon smile/arrow paths only, original color; dark wordmark omitted for contrast"
+  },
+  "sonyliv": {
+    "asset": "static/sonyliv.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",
+    "evidence": "https://www.sonypicturesnetworks.com/logos; https://commons.wikimedia.org/wiki/File:SonyLIV_2020.png",
+    "treatment": "Authentic SonyLIV PNG published on Commons with SonyLIV source; official portal download was unavailable"
+  },
+  "controls": {
+    "asset": "static/icons.svg",
+    "source": "https://github.com/phosphor-icons/core",
+    "license": "MIT; static/PHOSPHOR-LICENSE.txt",
+    "icons": {
+      "settings": "gear-six",
+      "tv": "television-simple",
+      "home": "house",
+      "back": "arrow-u-up-left",
+      "input": "sign-in",
+      "power": "power",
+      "chevron-up": "caret-up",
+      "chevron-down": "caret-down",
+      "chevron-left": "caret-left",
+      "chevron-right": "caret-right",
+      "arrow-up": "arrow-up",
+      "arrow-right": "arrow-right",
+      "keyboard": "keyboard",
+      "lock": "lock-key",
+      "minus": "minus",
+      "plus": "plus",
+      "volume": "speaker-high",
+      "mute": "speaker-slash",
+      "play": "play",
+      "pause": "pause",
+      "play-pause": "play-pause",
+      "stop": "stop",
+      "previous": "skip-back",
+      "next": "skip-forward",
+      "rewind": "rewind",
+      "fast-forward": "fast-forward",
+      "refresh": "arrow-clockwise",
+      "help": "question",
+      "close": "x",
+      "fullscreen": "corners-out"
+    }
+  },
+  "type": {
+    "asset": "static/geist.ttf",
+    "source": "Existing locally bundled Geist variable font",
+    "license": "SIL OFL; static/GEIST-LICENSE.txt"
+  },
+  "appIcon": {
+    "asset": "static/icon.svg and native/AppIcon.iconset",
+    "source": "Original project vector geometry",
+    "renderer": "native/make_icon.py",
+    "treatment": "Flat graphite remote silhouette, warm-white D-pad, no brand impersonation"
+  }
+}

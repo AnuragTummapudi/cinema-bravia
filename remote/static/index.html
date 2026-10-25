@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#181818">
+  <meta name="remote-token" content="__SESSION_TOKEN__">
+  <meta name="description" content="A private local remote for your Sony BRAVIA television.">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>BRAVIA Remote</title>
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/app-icon-192.png">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="preload" href="/geist.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#remote-controls">Skip to controls</a>
+  <div class="shell">
+    <header class="topbar">
+      <a class="wordmark" href="/" aria-label="BRAVIA Remote home"><img src="/icon.svg" alt="" width="40" height="40"><h1>BRAVIA Remote</h1></a>
+      <div class="device-heading"><span id="device-name">Sony BRAVIA BF1</span><span id="current-app"></span></div>
+      <div class="header-actions"><span class="status-pill" id="status-pill" role="status"><span class="status-dot" aria-hidden="true"></span><span id="status-text">Connecting</span></span><button class="icon-button" id="connection-toggle" aria-label="Connection settings" aria-expanded="false" aria-controls="connection-panel" title="Connection settings"><i data-icon="settings"></i></button></div>
+    </header>
+
+    <section id="connection-panel" class="connection-panel" aria-labelledby="connection-title" hidden>
+      <div class="connection-copy"><h2 id="connection-title">Connect your TV</h2><p id="connection-message">Keep your TV awake on the same Wi-Fi.</p></div>
+      <form id="pair-start-form" class="connection-form"><label for="tv-host">TV address</label><div class="input-action"><input id="tv-host" name="host" placeholder="192.168.1.x" inputmode="decimal" autocomplete="off" spellcheck="false" maxlength="15" required aria-describedby="address-help"><button type="submit" class="primary" id="pair-start">Get pairing code</button></div><p id="address-help" class="field-help">Find it in the TV’s network settings.</p></form>
+      <form id="pair-code-form" class="connection-form" hidden><label for="pair-code">Code on the TV</label><div class="input-action"><input id="pair-code" name="code" maxlength="6" minlength="6" pattern="[0-9A-Fa-f]{6}" autocomplete="one-time-code" spellcheck="false" placeholder="A1B2C3" required><button type="submit" class="primary" id="pair-finish">Connect</button></div><p class="field-help" id="pair-expiry">Enter the six characters shown on your TV.</p></form>
+      <button class="text-button" id="reconnect"><i data-icon="refresh"></i>Reconnect saved TV</button>
+      <p class="inline-error" id="pair-error" role="alert" hidden></p>
+      <details class="privacy-note"><summary>Privacy &amp; connection</summary><p>Controls use your paired TV connection. This server is available only on this Mac. Pairing files stay in its protected local folder. Text is cleared after sending and is not retained in status or logs. No analytics or cookies are used.</p></details>
+    </section>
+
+    <main class="workspace" id="remote-controls" tabindex="-1">
+      <section class="navigation-section" aria-label="TV navigation">
+        <div class="nav-utility"><button class="utility-button" data-key="BACK" data-control title="Back · Escape"><i data-icon="back"></i><span>Back</span></button><button class="utility-button" data-key="HOME" data-control title="Home · H"><i data-icon="home"></i><span>Home</span></button><button class="utility-button" data-key="TV_INPUT" data-control title="Inputs"><i data-icon="input"></i><span>Inputs</span></button></div>
+        <div class="dpad" id="dpad">
+          <button class="dpad-button up" data-key="DPAD_UP" data-control aria-label="Up" title="Up arrow"><i data-icon="chevron-up"></i></button>
+          <button class="dpad-button left" data-key="DPAD_LEFT" data-control aria-label="Left" title="Left arrow"><i data-icon="chevron-left"></i></button>
+          <button class="dpad-button center" data-key="DPAD_CENTER" data-control aria-label="OK, select" title="Select · Enter">OK</button>
+          <button class="dpad-button right" data-key="DPAD_RIGHT" data-control aria-label="Right" title="Right arrow"><i data-icon="chevron-right"></i></button>
+          <button class="dpad-button down" data-key="DPAD_DOWN" data-control aria-label="Down" title="Down arrow"><i data-icon="chevron-down"></i></button>
+        </div>
+        <div class="power-row"><button class="power-button" data-key="POWER" data-control><i data-icon="power"></i><span>Standby</span></button><span id="power-state" class="sr-only">TV state unavailable</span></div>
+      </section>
+
+      <section class="apps-section" aria-labelledby="apps-title">
+        <h2 id="apps-title">Apps</h2>
+        <div class="app-list">
+          <button class="app-button" data-app="netflix" data-control aria-label="Open Netflix"><span class="app-logo"><img class="netflix-logo" src="/netflix.svg" alt="" width="32" height="48"></span><span>Netflix</span></button>
+          <button class="app-button" data-app="youtube" data-control aria-label="Open YouTube"><span class="app-logo"><img class="youtube-logo" src="/youtube.svg" alt="" width="64" height="45"></span><span>YouTube</span></button>
+          <button class="app-button" data-app="prime" data-control aria-label="Open Prime Video"><span class="app-logo"><img class="prime-logo" src="/prime.svg" alt="" width="112" height="35"></span><span>Prime Video</span></button>
+          <button class="app-button" data-app="sonyliv" data-control aria-label="Open Sony LIV"><span class="app-logo"><img class="sonyliv-logo" src="/sonyliv.png" alt="" width="48" height="48"></span><span>Sony LIV</span></button>
+        </div>
+        <details class="shortcuts"><summary><i data-icon="keyboard"></i>Keyboard shortcuts<i data-icon="chevron-down"></i></summary><dl><div><dt>Navigate</dt><dd><kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd></dd></div><div><dt>Select</dt><dd><kbd>Enter</kbd></dd></div><div><dt>Back</dt><dd><kbd>Esc</kbd></dd></div><div><dt>Home</dt><dd><kbd>H</kbd></dd></div><div><dt>Play / pause</dt><dd><kbd>Space</kbd></dd></div><div><dt>Volume</dt><dd><kbd>−</kbd><kbd>+</kbd></dd></div><div><dt>Mute</dt><dd><kbd>M</kbd></dd></div></dl></details>
+      </section>
+
+      <section class="secondary-section" aria-label="Sound, playback and keyboard">
+        <div class="section-heading"><h2>Volume</h2><div class="volume-readout"><span id="volume-value">—</span><span id="volume-max"></span></div></div>
+        <div class="volume-bar"><button data-key="VOLUME_DOWN" data-control aria-label="Volume down" title="Volume down · Minus"><i data-icon="minus"></i></button><i class="volume-symbol" data-icon="volume" aria-hidden="true"></i><button class="mute-button" data-key="VOLUME_MUTE" data-control title="Mute · M" aria-label="Mute" aria-pressed="false"><i data-icon="mute"></i><span id="mute-label" class="sr-only">Mute</span></button><button data-key="VOLUME_UP" data-control aria-label="Volume up" title="Volume up · Plus"><i data-icon="plus"></i></button></div>
+        <h2 class="playback-heading">Playback</h2>
+        <div class="playback-main"><button data-key="MEDIA_PREVIOUS" data-control aria-label="Previous track" title="Previous"><i data-icon="previous"></i></button><button class="play-pause" data-key="MEDIA_PLAY_PAUSE" data-control aria-label="Play or pause" title="Play / pause · Space"><i data-icon="play-pause"></i></button><button data-key="MEDIA_NEXT" data-control aria-label="Next track" title="Next"><i data-icon="next"></i></button></div>
+        <div class="playback-secondary"><button data-key="MEDIA_REWIND" data-control aria-label="Rewind" title="Rewind"><i data-icon="rewind"></i></button><button data-key="MEDIA_STOP" data-control aria-label="Stop" title="Stop"><i data-icon="stop"></i></button><button data-key="MEDIA_FAST_FORWARD" data-control aria-label="Fast forward" title="Fast forward"><i data-icon="fast-forward"></i></button></div>
+        <form id="text-form" class="text-form"><label for="tv-text">Keyboard</label><div class="input-action"><input id="tv-text" name="text" maxlength="1000" required placeholder="Text to TV" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-describedby="text-help" data-control><button type="submit" class="send-text" data-control aria-label="Send text to TV" title="Send text"><i data-icon="arrow-up"></i></button></div><p id="text-help" class="field-help">Select a text field on your TV first.</p></form>
+      </section>
+    </main>
+    <footer><span id="transport-label" class="transport-label"><i data-icon="lock"></i><span>Encrypted connection</span></span><span id="last-action" role="status" aria-live="polite"></span></footer>
+  </div>
+  <div class="toast" id="toast" role="alert" hidden></div>
+</body>
+</html>

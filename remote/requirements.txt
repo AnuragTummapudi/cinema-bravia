@@ -1,0 +1,2 @@
+androidtvremote2 @ git+https://github.com/tronikos/androidtvremote2.git@e664a8e1f14ee458b14c646bfb3ea46f10367051
+aiohttp==3.14.3
