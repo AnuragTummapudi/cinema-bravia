@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "region": "IN",
+  "verification": "Channel identity and publisher ownership checked from YouTube primary channel metadata and linked publisher sites; excluded misleading personal lookalikes. Video lists are never bundled.",
+  "sources": [
+    {
+      "name": "Vyjayanthi Network",
+      "channelId": "UC70pKToywlxOGdgIvz8gYqA",
+      "handle": "VyjayanthiNetwork",
+      "uploadsPlaylistId": "UU70pKToywlxOGdgIvz8gYqA",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@VyjayanthiNetwork/about"
+      ],
+      "description": "Vyjayanthi Movies is an Indian Film production company established in 1974, by C. Ashwini Dutt. It is one of the biggest film production houses in South India credited with producing some of the most iconic films in Telugu Cinema history."
+    },
+    {
+      "name": "DVV Entertainment",
+      "channelId": "UCumU_6FNxfHXTmeeFCYz6Yw",
+      "handle": "DVVMovies",
+      "uploadsPlaylistId": "UUumU_6FNxfHXTmeeFCYz6Yw",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@DVVMovies/about"
+      ],
+      "description": "Welcome to the official channel of DVV Entertainment .\n\nDVV Entertainments is an Indian movie production house company established by popular Telugu film producer DVV Danayya. Our Latest Venture - India's Biggest Action Drama #RRRMovie. \nDirected by SS Rajamouli.\nOur Upcoming Film Pawan Kalyan's #OG #TheyCallhimOG \n\n\nDo subscribe and stay connected to this official channel for exclusive updates ! \n"
+    },
+    {
+      "name": "Sri Venkateswara Cine Chitra",
+      "channelId": "UCMNvQderPzsd_-sYKQyxHCA",
+      "handle": "SriVenkateswaraCineChitra",
+      "uploadsPlaylistId": "UUMNvQderPzsd_-sYKQyxHCA",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@SriVenkateswaraCineChitra/about"
+      ],
+      "description": "Sri Venkateswara Cine Chitra (SVCC) is an Indian film production company established by BVSN Prasad, a popular Telugu film producer.\n\nThe company has produced several successful Telugu films like Chatrapathi, Attarintiki Daredi, Darling, Oosaravelli, Nannaku Prematho, Dohchay, TholiPrema, Mr. Majnu featuring Akhil Akkineni & Nidhhi Agerwal, and Solo Brathuke So Better starring Sai Tej, Ninnila Ninnila and #RangaRangaVaibhavanga.\n\nLatest Movies from our banner are Virupaksha ft. Sai Dharam Tej, Samyuktha Menon & Directed by Karthik Dandu and Gandeevadhari Arjuna ft. Varun Tej & Sakshi Vaidya, directed by Praveen Sattaru, Appudo Ippudo Eppudo Starring Nikhil Siddhartha & Rukmini Vasanth, Directed by Sudheer Varma, JACK Starring Siddhu Jonnalagadda & Vaishnavi Chaitanya, directed by Bommarillu Bhaskar.\n\nOur upcoming projects are Naga Chaitanya - Karthik Dandu's #Vrushakarma & Macho Star Gopichand's #SVCC39.\n\nFor any copyright queries, Please reach out @ claims@whackedout.in."
+    },
+    {
+      "name": "Saregama Telugu",
+      "channelId": "UC68nKdrLbLL0Vj7ilVkLmmg",
+      "handle": "saregamasouth",
+      "uploadsPlaylistId": "UU68nKdrLbLL0Vj7ilVkLmmg",
+      "languagePolicy": "teluguOnly",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@saregamasouth/about"
+      ],
+      "description": "Saregama India Limited - the one-stop destination for Indian music - from golden oldies to the biggies of today. Chances are you'll find not just your own hummable faves but your mum's and grandma's too - we own the biggest archive of all kinds of music from India, with top artistes across 100 years. So come and find the perfect song for every mood."
+    },
+    {
+      "name": "Sony Music South",
+      "channelId": "UCn4rEMqKtwBQ6-oEwbd4PcA",
+      "handle": "sonymusicsouthofficial",
+      "uploadsPlaylistId": "UUn4rEMqKtwBQ6-oEwbd4PcA",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@sonymusicsouthofficial/about"
+      ],
+      "description": "Sony Music South – Official Channel 🎶\nWelcome to the official YouTube home of Sony Music Entertainment India, your one-stop destination for the latest and greatest music videos in Tamil, Telugu, and Kannada!\nFrom heartwarming love songs to electrifying kuthu beats, we bring you the most popular hits, new releases, and evergreen favorites from South India’s vibrant music scene. Whether you're vibing to romantic melodies or dancing to high-energy tracks, the best of South Indian music is just a click away.\n📲 Subscribe now and turn on notifications 🔔 to stay updated with fresh drops, exclusive content, and musical moments that move you.\nSony Music South – Feel the rhythm. Live the music.\n"
+    },
+    {
+      "name": "Mythri Movie Makers",
+      "channelId": "UCKZSn5C-RzrLjuWJF8wWiDw",
+      "handle": "MythriMovieMakers",
+      "uploadsPlaylistId": "UUKZSn5C-RzrLjuWJF8wWiDw",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@MythriMovieMakers/about",
+        "https://mythrimoviemakers.com/"
+      ],
+      "description": "Welcome to the official YouTube channel of Mythri Movie Makers! Founded by Naveen Yerneni and Y. Ravi Shankar, Mythri Movie Makers is one of Tollywood’s most successful production houses, delivering blockbuster hits that have redefined Telugu cinema. \n\nOur journey began with Srimanthudu, followed by massive hits like Janatha Garage, Rangasthalam, Chitralahari, and Dear Comrade. Continuing our blockbuster streak, we’ve produced industry-shaking films like Pushpa: The Rise, Sarkaru Vaari Paata, Waltair Veerayya, Veera Simha Reddy, Pushpa 2: The Rule & Mega Power Star Ram Charan's PEDDI, Ravi Teja's Irumudi. We've ventured in other language industries too with Ajith Kumar’s Good Bad Ugly, Sunny Deol's JAAT & Pradeep Ranganathan's Dude.\n\nOur Upcoming lineup is packed with exciting projects like Rebel Star Prabhas's Fauzi, Man of Masses NTR & Prashant Neel's next #NTRNeel, #AA23, RC17, Ranabaali and many more!\n\nFor any copyright queries, please reach out to claims@whackedout.in"
+    },
+    {
+      "name": "Sithara Entertainments",
+      "channelId": "UC2woPAI_KMAR25R_oezEQqw",
+      "handle": "SitharaEntertainments",
+      "uploadsPlaylistId": "UU2woPAI_KMAR25R_oezEQqw",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@SitharaEntertainments/about"
+      ],
+      "description": "Welcome to the official Youtube Channel of Sithara Entertainments."
+    },
+    {
+      "name": "Geetha Arts ",
+      "channelId": "UCiJfiEg1FImWsVuEu0L8X6Q",
+      "handle": "GeethaArts",
+      "uploadsPlaylistId": "UUiJfiEg1FImWsVuEu0L8X6Q",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@GeethaArts/about"
+      ],
+      "description": "Geetha Arts has captured what the audience wants for decades, cruising through the changing times with ease, and has established itself as one of India’s biggest production houses to be based out of the South. Geetha Arts was established in 1972 by Allu Aravind and is a film production and distribution company. The production house is known for its big-budget and highly successful movies.\n\nGeetha Arts, which was established as a film production company, later expanded to film distribution and exhibition. Geetha Film Distributors (GFD), a subsidiary of Geetha Arts, has released over 300 films across languages in Andhra Pradesh and Telangana and is one of the leading distributors. It is one of the few companies that has a studio-style functioning of having a production wing along with distribution channels.\n\nThe production house is also setting up its own studio called the Allu Studios.\n"
+    },
+    {
+      "name": "UV Creations",
+      "channelId": "UCmse5JbKneJqVyerfhDVYvQ",
+      "handle": "UVCreations",
+      "uploadsPlaylistId": "UUmse5JbKneJqVyerfhDVYvQ",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@UVCreations/about"
+      ],
+      "description": "UV Creations, founded in 2012 by V Vamsikrishna Reddy, UVS Pramod Raju, and V Vikram Srinivas Reddy, has quickly established itself as a leading name in Indian cinema. Based in Hyderabad, Telangana, UV Creations was built on a passion for storytelling, with a commitment to bringing compelling narratives to life on the big screen.\n\nStarting with the successful debut of Mirchi (2013), UV Creations has consistently delivered films that connect with audiences. With deep roots in film distribution, the founders have expanded their influence into multiplex screens across South India, solidifying their presence in the production, distribution, and exhibition sectors of the film industry.\n\nUV Creations continues to push the boundaries of Indian cinema, dedicated to creating high-quality, impactful content.\n\nDo subscribe and stay tuned to this official channel for all the latest updates.\n\nFor any copyright queries, Please reach out to claims@whackedout.in."
+    },
+    {
+      "name": "Dil Raju",
+      "channelId": "UCR-uD130PlXKww_J2Q63CMg",
+      "handle": "DilRaju",
+      "uploadsPlaylistId": "UUR-uD130PlXKww_J2Q63CMg",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@DilRaju/about"
+      ],
+      "description": "Dil Raju is an Indian film producer and distributor. He is one of the most successful Telugu film producers. He produces his films along with his cousin Shirish, under Sri Venkateswara Creations and Dil Raju Productions."
+    },
+    {
+      "name": "People Media Factory",
+      "channelId": "UCrzx3ZPXEZpzEGLF1gIuORQ",
+      "handle": "PeopleMediaFactory",
+      "uploadsPlaylistId": "UUrzx3ZPXEZpzEGLF1gIuORQ",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@PeopleMediaFactory/about"
+      ],
+      "description": "Welcome to the official channel of People Media Factory.\n\nPeople Media Factory is an Indian movie production house company established by TG Vishwa Prasad & Krithi Prasad \n\nOur upcoming Films: #TelusuKada #TheRajaSaab #Mowgli  #GarividiLakshmi \n\nDo subscribe and stay connected to this official channel for exclusive updates ! \n"
+    },
+    {
+      "name": "Aditya Music",
+      "channelId": "UCNApqoVYJbYSrni4YsbXzyQ",
+      "handle": "adityamusic",
+      "uploadsPlaylistId": "UUNApqoVYJbYSrni4YsbXzyQ",
+      "languagePolicy": "teluguOnly",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@adityamusic/about",
+        "https://www.adityamusic.com/"
+      ],
+      "description": "Aditya Music, a popular Telugu music label. Owns the music rights of most of the films in the Tollywood industry.\n\nAditya Music is the perfect music hub for Telugu music lovers, offering 24/7 live music, top songs and popular hits across genres. Check out Aditya Music Youtube Channel for Latest Telugu Songs and Trailers with High Quality Super Hit Telugu Video Songs , Exclusive Audios, Music Videos and Music Boxes of Hit Movie Music Tracks.. \n\n"
+    },
+    {
+      "name": "T-Series Telugu",
+      "channelId": "UCnJjcn5FrgrOEp5_N45ZLEQ",
+      "handle": "TseriesTelugu",
+      "uploadsPlaylistId": "UUnJjcn5FrgrOEp5_N45ZLEQ",
+      "languagePolicy": "teluguOnly",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@TseriesTelugu/about"
+      ],
+      "description": "“Music can change the world\". T-Series is India's largest Music Label & Movie Studio, believes in bringing world close together through its music.\n\nFor over thirty years, we’ve been more than a label. We’ve been listeners archeologists of emotion, digging in every corner of India, collecting stories and music in all forms told in all Indian languages. \n\nAnd we believe that the language of the heart doesn’t need translation. It only needs a stage. So this is our stage. Yours and ours. \n\nAll music lovers who believe in the magic of music, come. Join us. Live the magic with T-Series.\n"
+    },
+    {
+      "name": "Hombale Films",
+      "channelId": "UCarJoVXH0T2pdtcHBu9J8Bw",
+      "handle": "HombaleFilms",
+      "uploadsPlaylistId": "UUarJoVXH0T2pdtcHBu9J8Bw",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@HombaleFilms/about"
+      ],
+      "description": "Hombale Films is dedicated to filmmaking, production, and global distribution, bringing top Indian cinema to audiences worldwide. Fueled by passion, we aim to blend corporate filmmaking with India's vibrant film industry. Our portfolio, including hits like Ninnindale, Masterpiece, Raajakumara, KGF Chapters 1 & 2, Yuvarathnaa, Kantara and Salaar Part 1: Ceasefire, Kantara Chapter 1 showcases our commitment to storytelling excellence and innovation.\n\nWe've seen a significant evolution in cinema quality, earning global recognition for Indian films, thanks to our skilled technicians and creatives. At Hombale Films, we focus on identifying, nurturing, and promoting exceptional talent, aiming to contribute to Indian cinema's.\n\nJoin our journey to explore new horizons, create compelling stories, and bring Indian cinema's magic to the world. \n\nThis channel belongs to Hombale Films:\n© All Rights Reserved.\n"
+    },
+    {
+      "name": "Lahari Music",
+      "channelId": "UCnSqxrSfo1sK4WZ7nBpYW1Q",
+      "handle": "laharimusicindia",
+      "uploadsPlaylistId": "UUnSqxrSfo1sK4WZ7nBpYW1Q",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@laharimusicindia/about",
+        "https://www.laharimusic.com/"
+      ],
+      "description": "South India's Largest Music Company #LahariMusic 🎶"
+    },
+    {
+      "name": "Haarika & Hassine Creations",
+      "channelId": "UCme6XJ0pNj-zyVyYkAJikxw",
+      "handle": "haarikahassine",
+      "uploadsPlaylistId": "UUme6XJ0pNj-zyVyYkAJikxw",
+      "languagePolicy": "explicitTelugu",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@haarikahassine/about"
+      ],
+      "description": "Welcome to the Official Youtube channel of Haarika & Hassine Creations."
+    },
+    {
+      "name": "Universal Pictures",
+      "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+      "handle": "UniversalPictures",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "englishOnly",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@UniversalPictures/about"
+      ],
+      "description": "Welcome to the official Universal Pictures YouTube page!",
+      "category": "hollywood"
+    },
+    {
+      "name": "20th Century Studios",
+      "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "handle": "20thCenturyStudios",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "englishOnly",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@20thCenturyStudios/about"
+      ],
+      "description": "Official YouTube Channel for 20th Century Studios. \n\nAt The Walt Disney Company, we are committed to bringing great stories, characters, and experiences to guests around the world. We strive to foster an inclusive, diverse, respectful, and safe environment for all fans. We ask the same of our fan communities. As such, we reserve the right to take action including but not limited to hiding, deleting, blocking, and reporting any posts on this account or page. Please also be aware that The Walt Disney Company does not accept or consider unsolicited idea submissions.\n",
+      "category": "hollywood"
+    },
+    {
+      "name": "Paramount Pictures",
+      "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+      "handle": "ParamountPictures",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "englishOnly",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@ParamountPictures/about"
+      ],
+      "description": "The official YouTube channel for Paramount Pictures! \n",
+      "category": "hollywood"
+    },
+    {
+      "name": "Sony Pictures Entertainment",
+      "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+      "handle": "SonyPictures",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "englishOnly",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@SonyPictures/about"
+      ],
+      "description": "Welcome to the official channel for Sony Pictures Entertainment. Subscribe now to get weekly first looks at our films, including the latest movie trailers, exclusive movie clips, and vignettes! Stay tuned for some behind the scenes moments and messages from your favorite actors!",
+      "category": "hollywood"
+    },
+    {
+      "name": "Lionsgate Movies",
+      "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "handle": "LionsgateMovies",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "englishOnly",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@LionsgateMovies/about"
+      ],
+      "description": "Welcome to the official YouTube channel for Lionsgate! Subscribe and follow for latest movie trailers, exclusive special features and official clips from our upcoming films.\n\n\n",
+      "category": "hollywood"
+    },
+    {
+      "name": "Warner Bros.",
+      "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "handle": "WarnerBros",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "englishOnly",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@WarnerBros/about"
+      ],
+      "description": "Welcome to the official channel for Warner Bros. Subscribe now for all our latest movie trailers, clips and featurettes!\n",
+      "category": "hollywood"
+    },
+    {
+      "name": "OpenAI",
+      "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "handle": "OpenAI",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "ai",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@OpenAI/about"
+      ],
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity.\n\n",
+      "category": "tech"
+    },
+    {
+      "name": "Google DeepMind",
+      "channelId": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "handle": "GoogleDeepMind",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "ai",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@GoogleDeepMind/about"
+      ],
+      "description": "We live in an exciting time when AI research and technology are delivering extraordinary advances. In the coming years, AI — and ultimately artificial general intelligence (AGI) — has the potential to drive one of the greatest transformations in history.\n\nWe’re a team of scientists, engineers, ethicists and more, working to build the next generation of AI systems safely and responsibly. By solving some of the hardest scientific and engineering challenges of our time, we’re working to create breakthrough technologies that could advance science, transform work, serve diverse communities — and improve billions of people’s lives.\n\nLearn more about Google DeepMind: https://deepmind.google/about/\n",
+      "category": "tech"
+    },
+    {
+      "name": "Google",
+      "channelId": "UCK8sQmJBp8GCxrOtXWBpyEA",
+      "handle": "Google",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "mixed",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@Google/about"
+      ],
+      "description": "Here to help. \n\nReimagining how AI can make your life better and help you explore your creativity, connect with the world, and discover new possibilities. Browse our latest product demos, unboxings, developer roundtables, podcasts, tips, tricks and more. Subscribe for the latest product updates, innovations, and a peek inside the magic of Google.\n",
+      "category": "tech"
+    },
+    {
+      "name": "Y Combinator",
+      "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "handle": "ycombinator",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "startups",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@ycombinator/about"
+      ],
+      "description": "All the world is changing around technology and you may contribute a line of code. What will yours be? \n\nSubscribe for startup advice, founder stories, and a look inside Y Combinator.\n\nWhat is Y Combinator?\nWe invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals. \n\nVisit ycombinator.com to learn more.\n\n",
+      "category": "tech"
+    },
+    {
+      "name": "Tesla",
+      "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+      "handle": "Tesla",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "robotics",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@Tesla/about"
+      ],
+      "description": "Electric vehicles, giant batteries & solar, AI & robotics. Tesla’s mission is to accelerate the world’s transition to sustainable energy.",
+      "category": "tech"
+    },
+    {
+      "name": "Boston Dynamics",
+      "channelId": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "handle": "BostonDynamics",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "robotics",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@BostonDynamics/about"
+      ],
+      "description": "Boston Dynamics’ mission is to imagine and create exceptional robots that enrich people’s lives.\nFor more information about Boston Dynamics and our robots, visit us at https://www.bostondynamics.com.",
+      "category": "tech"
+    },
+    {
+      "name": "NVIDIA",
+      "channelId": "UCHuiy8bXnmK5nisYHUd1J5g",
+      "handle": "NVIDIA",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "mixed",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@NVIDIA/about"
+      ],
+      "description": "Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling industrial digitalization across markets. NVIDIA is now a full-stack computing infrastructure company with data-center-scale offerings that are reshaping industry.",
+      "category": "tech"
+    },
+    {
+      "name": "Apple",
+      "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+      "handle": "Apple",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "devices",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@Apple/about"
+      ],
+      "description": "Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content.\n\nApple revolutionized personal technology with the introduction of the Macintosh in 1984. Today Apple continues to be a global leader in innovation with products like iPhone, iPad, Mac, Apple Watch and Apple Vision Pro. Our six software platforms (iOS, iPadOS, macOS, watchOS, tvOS, and visionOS) provide seamless experiences across Apple devices. Breakthrough services include the App Store, Apple Music, Apple Pay, and iCloud. And Apple keeps pursuing innovation with products like Apple HomeView, HomePod, Apple Fitness+, and Apple Card. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.\n\nAdditional products include AirPods, AirTags, Apple Arcade, Apple Books, Apple News, Apple Podcasts, and Apple TV.\n",
+      "category": "tech"
+    },
+    {
+      "name": "Microsoft",
+      "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+      "handle": "Microsoft",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "mixed",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@Microsoft/about"
+      ],
+      "description": "Our mission is to empower every person and every organization on the planet to achieve more.\n\nSubscribe to Microsoft's official YouTube channel to explore technology’s role in making the world more sustainable, inclusive, and innovative for all.\n\n",
+      "category": "tech"
+    },
+    {
+      "name": "SpaceX",
+      "channelId": "UCtI0Hodo5o5dUb67FeUjDeA",
+      "handle": "SpaceX",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "space",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@SpaceX/about"
+      ],
+      "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft.",
+      "category": "tech"
+    },
+    {
+      "name": "Unitree Robotics",
+      "channelId": "UCsMbp4V8oxzHCMdOUP-3oWw",
+      "handle": "UnitreeRobotics",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "robotics",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@UnitreeRobotics/about"
+      ],
+      "description": "Please everyone be sure to use the robot in a Friendly and Safe manner.\nHigh performance civilian robot manufacturer.\nUnitree Robotics company official channel.\nOfficial Website: www.unitree.com\nSales contact: sales_global@unitree.com\n",
+      "category": "tech"
+    },
+    {
+      "name": "Anthropic",
+      "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "handle": "anthropic-ai",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "ai",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@anthropic-ai/about"
+      ],
+      "description": "We’re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. \n\nWe believe AI will have a vast impact on the world. Anthropic is dedicated to building systems that people can rely on and generating research about the opportunities and risks of AI.\n\n",
+      "category": "tech"
+    },
+    {
+      "name": "Claude",
+      "channelId": "UCV03SRZXJEz-hchIAogeJOg",
+      "handle": "claude",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "ai",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@claude/about"
+      ],
+      "description": "The AI for problem solvers. Built by Anthropic to be safe, accurate, and secure. Talk to Claude on claude.ai or download the app on desktop & mobile.\n",
+      "category": "tech"
+    },
+    {
+      "name": "Figure",
+      "channelId": "UCYlq-KmwPjc1DtsGmthFqSQ",
+      "handle": "FigureAI",
+      "uploadsPlaylistId": "",
+      "languagePolicy": "robotics",
+      "ownershipEvidence": [
+        "https://www.youtube.com/@FigureAI/about"
+      ],
+      "description": "Figure is an AI Robotics company building the world's first commercially viable autonomous humanoid robot. Follow along for updates. ",
+      "category": "tech"
+    }
+  ]
+}

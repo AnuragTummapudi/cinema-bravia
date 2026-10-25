@@ -1,0 +1,58 @@
+[
+  {
+    "id": "iron-man",
+    "characterArt": "characters/iron-man.png",
+    "tint": "#934c2e",
+    "source": "https://pngimg.com/uploads/ironman/ironman_PNG91.png",
+    "attribution": "PNGimg.com, CC BY-NC 4.0 as stated by source; character rights remain with respective owners.",
+    "license": "https://pngimg.com/license"
+  },
+  {
+    "id": "captain-america-the-first-avenger",
+    "characterArt": "characters/captain-america-the-first-avenger.png",
+    "tint": "#245477",
+    "source": "https://pngimg.com/uploads/captain_america/captain_america_PNG97.png",
+    "attribution": "PNGimg.com, CC BY-NC 4.0 as stated by source; character rights remain with respective owners.",
+    "license": "https://pngimg.com/license"
+  },
+  {
+    "id": "deadpool",
+    "characterArt": "characters/deadpool.png",
+    "tint": "#873c42",
+    "source": "https://pngimg.com/uploads/deadpool/deadpool_PNG103.png",
+    "attribution": "PNGimg.com, CC BY-NC 4.0 as stated by source; character rights remain with respective owners.",
+    "license": "https://pngimg.com/license"
+  },
+  {
+    "id": "spider-man-no-way-home",
+    "characterArt": "characters/spider-man-no-way-home.png",
+    "tint": "#853d35",
+    "source": "https://pngimg.com/uploads/spider_man/spider_man_PNG94.png",
+    "attribution": "PNGimg.com, CC BY-NC 4.0 as stated by source; character rights remain with respective owners.",
+    "license": "https://pngimg.com/license"
+  },
+  {
+    "id": "shinchan",
+    "characterArt": "characters/shinchan.png",
+    "tint": "#8a4b35",
+    "source": "https://pnggallery.com/wp-content/uploads/shin-chan-01.png",
+    "attribution": "PNG Gallery states CC BY-NC 4.0; underlying character rights retained by owners.",
+    "license": "https://pnggallery.com/shin-chan/"
+  },
+  {
+    "id": "ala-vaikunthapurramuloo",
+    "characterArt": "characters/ala-vaikunthapurramuloo.png",
+    "source": "https://pnggallery.com/wp-content/uploads/allu-arjun-03.png",
+    "attribution": "PNG Gallery, CC BY-NC 4.0 as stated by source. Character rights remain with respective owners.",
+    "license": "https://pnggallery.com/allu-arjun/",
+    "tint": "#87672c"
+  },
+  {
+    "id": "doraemon",
+    "characterArt": "characters/doraemon.png",
+    "source": "https://pnggallery.com/wp-content/uploads/doraemon-01.png",
+    "attribution": "PNG Gallery, CC BY-NC 4.0 as stated by source. Character rights remain with respective owners.",
+    "license": "https://pnggallery.com/doraemon/",
+    "tint": "#247b99"
+  }
+]

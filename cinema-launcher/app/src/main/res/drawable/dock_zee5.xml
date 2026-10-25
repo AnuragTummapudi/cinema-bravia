@@ -1,0 +1,20 @@
+<!-- ZEE5_2025.svg: Zee Entertainment Enterprises; original paths/colors and gradient stops. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:width="74dp" android:height="62dp" android:viewportWidth="226.8" android:viewportHeight="187.4">
+<path android:fillColor="#b4b4bf" android:pathData="M101.9,2.4 L3.5,2.4 L3.5,6.6 L3.5,8.7 L92.2,8.7 L0,183.4 L30.9,183.4 L129.3,183.4 L129.3,179.2 L129.3,177.1 L40.6,177.1 L132.8,2.4 L101.9,2.4 Z"/>
+<path android:pathData="M146.5,25.1l-11.1,70.2h8c8.7-19,36.3-26,54.1-15.2,17.5,10.3,21.1,36.6,12.6,54-13.1,30.1-64.2,23.4-68.8-9.3h-8.6c5.9,44.1,75.1,49.7,87.5,6.9,17-49.8-39.5-86.7-75.3-49l8.4-49.8h60.2v-7.6h-67.1Z">
+<aapt:attr name="android:fillColor"><gradient android:type="linear" android:startX="142.1" android:startY="108.7" android:endX="220.3" android:endY="63.1">
+<item android:offset="0" android:color="#1abed4"/>
+<item android:offset="0" android:color="#2abdb6"/>
+<item android:offset="0" android:color="#40bd8e"/>
+<item android:offset="0" android:color="#52bc6f"/>
+<item android:offset="0" android:color="#5ebc58"/>
+<item android:offset="0" android:color="#66bc4b"/>
+<item android:offset=".1" android:color="#69bc47"/>
+<item android:offset=".1" android:color="#76b843"/>
+<item android:offset=".2" android:color="#99ae3a"/>
+<item android:offset=".3" android:color="#d29e2b"/>
+<item android:offset=".4" android:color="#f89422"/>
+<item android:offset=".7" android:color="#f89024"/>
+<item android:offset="1" android:color="#ef3f58"/>
+<item android:offset="1" android:color="#ec2b8d"/>
+</gradient></aapt:attr></path></vector>
